@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Companion",
+  "description": "An elegant interactive developer console and prompt helper for your AI Studio workspace. Confirm that your system is fully operational and generate optimized blueprints for your next application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
